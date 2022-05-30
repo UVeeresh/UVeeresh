@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 <a href=""><img alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={UVeeresh}
